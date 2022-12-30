@@ -1,0 +1,17 @@
+Para criar esse projeto, fizemos duas coisas
+criamos 1 projeto dart 
+criamos 1 projeto backend utilizando o json_rest_server
+
+
+para criar esse backend fomos no terminal e digitamos
+mkdir alunos_cli_api
+em seguida digitamos
+json_rest_server create .
+
+
+o '.' esta dizendo que eu queria criar o backend na pasta 
+que o terminal estava(ou seja o alunos_cli_api)
+
+
+
+no database.json não iremos mexer nos 'users', não podemos apaga-los pois o package precisa de um user.
